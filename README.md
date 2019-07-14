@@ -17,7 +17,7 @@ Part 3 of the project focuses on **Classification Modeling**.  Compare various m
 
 
 ### Directory Structure
-
+```
 project-3_nlp_naive_bayes
 |__ code
 |   |__ 01_subreddit_data_collection.ipynb   
@@ -35,3 +35,4 @@ project-3_nlp_naive_bayes
 |__ project_3_presentation_naive_bayes_nlp.pptx
 |__ EXECUTIVE_SUMMARY.md 
 |__ README.md 
+```
